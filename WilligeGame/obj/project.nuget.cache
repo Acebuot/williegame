@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f7V0z5MfJ1/z3dvm2P97+83Vu/uExTRjV/hJcHllGilFLiSkW20ESwFfEzRyIC4X+7RuJc2KXPQ3he6auZ4STA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xoe\\Desktop\\delete\\mobile pre MVC\\WilligeGame\\WilligeGame\\WilligeGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xoe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Xoe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\bin\Debug\netstandard2.0\WilligeGame.deps.json
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\bin\Debug\netstandard2.0\WilligeGame.dll
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\bin\Debug\netstandard2.0\WilligeGame.pdb
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.csprojAssemblyReference.cache
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.AssemblyInfoInputs.cache
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.AssemblyInfo.cs
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.csproj.CoreCompileInputs.cache
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.dll
+C:\Users\Xoe\Desktop\delete\WilligeGame\WilligeGame\obj\Debug\netstandard2.0\WilligeGame.pdb
